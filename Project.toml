@@ -1,0 +1,4 @@
+name = "SingleCellDimensionalityReduction"
+uuid = "c70eb315-30d0-4496-98e6-92c257ae4c4d"
+authors = ["Irene Robles Rebollo <irenerobles93@gmail.com>"]
+version = "0.1.0"
